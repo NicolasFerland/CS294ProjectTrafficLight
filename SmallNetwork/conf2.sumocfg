@@ -1,0 +1,11 @@
+<configuration>
+    <input>
+        <net-file value="osm.net.xml"/>
+        <route-files value="myRoute.xml"/>
+    </input>
+    <time>
+        <begin value="0"/>
+        <end value="100000000"/>
+        <step-length value="1."/>
+    </time>
+</configuration>
